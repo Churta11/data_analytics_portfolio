@@ -24,3 +24,7 @@ Tools: Pandas, NumPy, Excel, Power BI
 Data Engineering: ETL pipelines, FastAPI, basic ML workflows
 
 Concepts: Data quality, validation, automation, reproducibility
+
+# Featured Projects
+
+COMING SOON
