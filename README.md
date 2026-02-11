@@ -1,4 +1,4 @@
-# data_analytics_portfolio
+
 # Hi, I’m a Data Analyst with a lab & engineering background
 
 I’m a data analytics professional with hands-on experience in laboratory testing, data analysis, and automation, currently transitioning fully into data analytics and analytics engineering roles.
